@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body { background:url(../images/con1bg.jpg) ;}
+#wrapper {}
+#top_menu {background:#f15553; width:100%; border-bottom:1px solid #eaeaea; position: fixed; top:0px; height:93px;}
+#wrapper .header-inner {padding:32px 0 0 0;width:1015px;height:60px; margin:0 auto; overflow:hidden;}
+#wrapper h1 {float:left;}
+#wrapper .menu-list {overflow:hidden; padding:9px 0 0 100px}
+#wrapper .menu-list li {float:left; padding-right:80px;}
+#wrapper .menu-list .last-menu {padding-right:0;}
+#wrapper #contents {background:#fff; width:1015px; margin:0 auto}
+#top_menu .on { color:#white; font-weight:bold; } 
+#top_menu ul li a {color:white}
+#top_menu {}
+#contents div {padding-top:114px;}
